@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ألوان Material 3 للوضع الليلي -->
+    <color name="primary">#D0BCFF</color>
+    <color name="on_primary">#381E72</color>
+    <color name="primary_container">#4F378B</color>
+    <color name="on_primary_container">#EADDFF</color>
+
+    <color name="secondary">#CCC2DC</color>
+    <color name="on_secondary">#332D41</color>
+    <color name="secondary_container">#4A4458</color>
+    <color name="on_secondary_container">#E8DEF8</color>
+
+    <!-- ألوان الخلفية -->
+    <color name="background">#1C1B1F</color>
+    <color name="on_background">#E6E1E5</color>
+    <color name="surface">#1C1B1F</color>
+    <color name="on_surface">#E6E1E5</color>
+    <color name="surface_variant">#49454F</color>
+    <color name="on_surface_variant">#CAC4D0</color>
+
+    <!-- ألوان التنبيهات -->
+    <color name="error">#F2B8B5</color>
+    <color name="on_error">#601410</color>
+    <color name="error_container">#8C1D18</color>
+    <color name="on_error_container">#F9DEDC</color>
+
+    <!-- ألوان مخصصة -->
+    <color name="download_button">#388E3C</color>
+    <color name="card_stroke">#424242</color>
+    <color name="progress_background">#37474F</color>
+
+    <!-- ألوان النصوص -->
+    <color name="text_primary">#E6E1E5</color>
+    <color name="text_secondary">#CAC4D0</color>
+
+    <!-- الألوان الإضافية المطلوبة للتوافق -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#D0BCFF</color> <!-- نفس لون primary -->
+    <color name="purple_700">#9A82DB</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

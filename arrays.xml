@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- قائمة اللغات المتاحة -->
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>العربية</item>
+    </string-array>
+
+    <!-- قائمة جودة الفيديو -->
+    <string-array name="video_quality_array">
+        <item>Auto</item>
+        <item>360p</item>
+        <item>720p</item>
+        <item>1080p</item>
+        <item>4K</item>
+        <item>Audio only</item>
+    </string-array>
+
+    <!-- قائمة جودة الفيديو (قيم API) -->
+    <integer-array name="video_quality_values">
+        <item>0</item>  <!-- Auto -->
+        <item>360</item>
+        <item>720</item>
+        <item>1080</item>
+        <item>2160</item>
+        <item>-1</item>  <!-- Audio only -->
+    </integer-array>
+
+    <!-- قائمة التنسيقات المدعومة -->
+    <string-array name="supported_formats">
+        <item>.mp4</item>
+        <item>.webm</item>
+        <item>.mkv</item>
+        <item>.3gp</item>
+    </string-array>
+
+    <!-- قائمة مواقع الدعم -->
+    <string-array name="supported_sites">
+        <item>YouTube</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Instagram</item>
+    </string-array>
+
+</resources>

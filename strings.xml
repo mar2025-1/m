@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- النصوص العامة -->
+    <string name="app_name">مارد</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <!-- MainActivity -->
+    <string name="search_hint">ابحث أو أدخل رابط الفيديو</string>
+    <string name="download">تنزيل</string>
+    <string name="video_url_empty">يجب إدخال رابط الفيديو</string>
+    <string name="downloading">جاري التنزيل: %s</string>
+    <string name="enter_video_url">أدخل رابط الفيديو هنا</string>
+
+    <!-- SettingsActivity -->
+    <string name="appearance_settings">إعدادات المظهر</string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="language">اللغة</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_arabic">العربية</string>
+    <string name="about_app">حول التطبيق</string>
+    <string name="app_version">الإصدار: %s</string>
+    <string name="developer_info">المطور: فريق مارد</string>
+
+    <!-- VideoAdapter -->
+    <string name="video_thumbnail_desc">معاينة الفيديو</string>
+    <string name="options_menu">خيارات</string>
+    <string name="delete_video">حذف الفيديو</string>
+    <string name="play_video">تشغيل الفيديو</string>
+    <string name="download_date">تم التنزيل: %s</string>
+
+    <!-- جودة الفيديو -->
+    <string name="quality_auto">تلقائي</string>
+    <string name="quality_360">360p</string>
+    <string name="quality_720">720p</string>
+    <string name="quality_1080">1080p</string>
+    <string name="quality_4k">4K</string>
+    <string name="audio_only">الصوت فقط</string>
+
+    <!-- رسائل التنزيل -->
+    <string name="download_success">تم التنزيل بنجاح</string>
+    <string name="download_failed">فشل التنزيل: %s</string>
+    <string name="storage_permission_required">يجب منح صلاحية التخزين</string>
+
+    <!-- نصوص جديدة مضافة -->
+    <string name="retry">إعادة المحاولة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="share">مشاركة</string>
+    <string name="no_videos">لا توجد فيديوهات محملة</string>
+</resources>

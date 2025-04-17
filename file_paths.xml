@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- مسار الملفات الداخلية للتطبيق (context.getFilesDir()) -->
+    <files-path
+        name="app_files"
+        path="." />
+
+    <!-- مسار الذاكرة المؤقتة (context.getCacheDir()) -->
+    <cache-path
+        name="app_cache"
+        path="." />
+
+    <!-- مسار التخزين الخارجي العام (Environment.getExternalStorageDirectory()) -->
+    <external-path
+        name="external_storage"
+        path="." />
+
+    <!-- مسار ملفات التطبيق الخارجية (context.getExternalFilesDir(null)) -->
+    <external-files-path
+        name="external_app_files"
+        path="." />
+
+    <!-- مسار ذاكرة التطبيق المؤقتة الخارجية (context.getExternalCacheDir()) -->
+    <external-cache-path
+        name="external_app_cache"
+        path="." />
+
+    <!-- مسار مخصص لمجلد التنزيلات -->
+    <external-files-path
+        name="downloads"
+        path="Downloads/" />
+
+    <!-- مسار مخصص للوسائط (الصور) -->
+    <external-files-path
+        name="media"
+        path="Pictures/" />
+</paths>
